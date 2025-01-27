@@ -5,7 +5,7 @@
 ![Technologies](https://img.shields.io/badge/technologies-Spring_Data_jpa%20-green.svg)
 ![Technologies](https://img.shields.io/badge/technologies-Thymeleaf_&_Bootstrap%20-purple.svg)
 
-Deployed on AWS : http://13.201.28.248:8080/
+Deployed on AWS : http://3.110.131.160:8080/
 
 # Expenses-Tracker-WebApp
 ## Overview
